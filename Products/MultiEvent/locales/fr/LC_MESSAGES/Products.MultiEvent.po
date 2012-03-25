@@ -19,15 +19,15 @@ msgstr ""
 
 #: ./profiles/default/types/MultiEvent.xml
 msgid "An event that can happens multiple times"
-msgstr ""
+msgstr "Un événement qui peut avoir lieu plusieurs fois"
 
 #: ./profiles/default/types/MultiEvent.xml
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 #: ./MultiEvent.py:35
 msgid "End Date"
-msgstr ""
+msgstr "Date de fin"
 
 #: ./profiles/default/types/MultiEvent.xml
 msgid "External Edit"
@@ -35,42 +35,42 @@ msgstr ""
 
 #: ./MultiEvent.py:33
 msgid "Location"
-msgstr ""
+msgstr "Localisation"
 
 #: ./profiles/default/types/MultiEvent.xml
 msgid "MultiEvent"
-msgstr ""
+msgstr "MultiEvent"
 
 #: ./MultiEvent.py:34
 msgid "Start Date"
-msgstr ""
+msgstr "Date de début"
 
 #: ./profiles/default/types/MultiEvent.xml
 msgid "View"
-msgstr ""
+msgstr "Voir"
 
 #. Default: "If selected, past events will be not showed"
 #: ./MultiEvent.py:45
 msgid "help_exclude_past_from_view"
-msgstr ""
+msgstr "Si sélectionné, les événements passés ne seront pas affichés"
 
 #. Default: "Date must be in the day/month/Year format."
 #: ./MultiEvent.py:31
 msgid "help_upcoming_event"
-msgstr ""
+msgstr "La date doit être au format jour/mois/année."
 
 #. Default: "Exclude past events from view"
 #: ./MultiEvent.py:43
 msgid "label_exclude_past_from_view"
-msgstr ""
+msgstr "Exclure les dates passées de la vue"
 
 #. Default: "Past Events"
 #: ./MultiEvent.py:57
 msgid "label_past_events"
-msgstr ""
+msgstr "Evénements passés"
 
 #. Default: "Upcoming Events"
 #: ./MultiEvent.py:29
 msgid "label_upcoming_events"
-msgstr ""
+msgstr "Evénements à venir"
 

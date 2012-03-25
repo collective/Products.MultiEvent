@@ -4,4 +4,6 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
-- Initial release
+- Add french translation [toutpt]
+- Packaged and migrated from old style products in svn collective
+  [toutpt]
