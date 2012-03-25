@@ -17,7 +17,7 @@ from Products.DataGridField.Column import Column
 from Products.MultiEvent.utilities import *
 from Products.MultiEvent import config
 
-from i18n.messageid import MessageFactory
+from zope.i18nmessageid import MessageFactory
 _ = MessageFactory('Products.MultiEvent')
 
 schema = ATEventSchema.copy() + Schema((
